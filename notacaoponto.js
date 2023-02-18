@@ -1,9 +1,9 @@
 console.log(Math.ceil(6.1))
 
 const Obj1 = {}
-Obj1.nome = 'Boia'
-
+Obj1.nome = 'Boia' // criando um atributo dentro de um objeto
 console.log(Obj1.nome)
+
 
 function Obj(nome) {
     this.nome = nome
